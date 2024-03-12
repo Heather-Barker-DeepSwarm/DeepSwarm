@@ -46,3 +46,9 @@ Log entry for 2024-#-17T12:00:00
 Log entry for 2024-#-24T12:00:00
 Log entry for 2024-#-#T12:00:00
 Log entry for 2024-#-每月的第3、10、17、24日T12:00:00
+Log entry for 2024-6月到12月-3T12:00:00
+Log entry for 2024-6月到12月-10T12:00:00
+Log entry for 2024-6月到12月-17T12:00:00
+Log entry for 2024-6月到12月-24T12:00:00
+Log entry for 2024-6月到12月-#T12:00:00
+Log entry for 2024-6月到12月-每月的第3、10、17、24日T12:00:00
