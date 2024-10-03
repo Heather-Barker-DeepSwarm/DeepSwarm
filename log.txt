@@ -40,3 +40,9 @@ Log entry for 2024-12-17T12:00:00
 Log entry for 2024-12-24T12:00:00
 Log entry for 2024-12-#T12:00:00
 Log entry for 2024-12-每月的第3、10、17、24日T12:00:00
+Log entry for 2024-#-3T12:00:00
+Log entry for 2024-#-10T12:00:00
+Log entry for 2024-#-17T12:00:00
+Log entry for 2024-#-24T12:00:00
+Log entry for 2024-#-#T12:00:00
+Log entry for 2024-#-每月的第3、10、17、24日T12:00:00
